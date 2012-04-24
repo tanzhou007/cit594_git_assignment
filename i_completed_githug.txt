@@ -20,7 +20,6 @@ Sheng Huang shehuang
 Qing Xie qingxie
 Andy Ye	andyye
 Arpit Jain arpitj
-Qing Xie qingxie
 Greg Smith gresmith
 Mengyao Chai mengyaoc
 Anchal Khanna anchalk
